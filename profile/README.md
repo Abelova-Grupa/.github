@@ -31,9 +31,10 @@ Whether it's learning new technologies, solving real-world problems, or just hav
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/JavaFX_Logo.png/220px-JavaFX_Logo.png" height="52"/>
   <img width="12" />
-
   <img src="https://v33.openhab.org/logos/jdbc.png" height="52"/>
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" height="52"/>
+   <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="52"/>
 
 </div>
@@ -44,9 +45,11 @@ Whether it's learning new technologies, solving real-world problems, or just hav
   <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" height="52"/>
   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="52"/>
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="52"/>
  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="52" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="52"/>
+  <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" height="52"/>
 </div>
