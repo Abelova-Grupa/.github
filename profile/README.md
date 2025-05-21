@@ -1,7 +1,7 @@
   # Abelova Grupa ( Abelian Group 😉 )
 
 ## About 🍀
-We're a trio of passionate students from University of Belgrade (Faculty of organizational sciences) who love turning ideas into reality through code. This GitHub organization is our playground for side projects,
+We're a group of passionate students from University of Belgrade (Faculty of organizational sciences) who love turning ideas into reality through code. This GitHub organization is our playground for side projects,
 where we experiment, collaborate, and build everything from web apps and automation tools to open-source utilities. 
 Whether it's learning new technologies, solving real-world problems, or just having fun with code, we're all about creating and sharing our work with the world.
 
@@ -15,6 +15,8 @@ Whether it's learning new technologies, solving real-world problems, or just hav
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="62"/>
   <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="52"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="52"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="52"/>
   <img width="12" />
